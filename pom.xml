@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-        <!--JPA规范的api接口-->
+        <!--JPA规范的api接口:可忽略，entitymanager依赖中已自带-->
         <dependency>
             <groupId>javax.persistence</groupId>
             <artifactId>javax.persistence-api</artifactId>
